@@ -1,4 +1,7 @@
 this is tonghua-win's file
 change file
 change file 2
-change file 3(tonghua)
+<<<<<<< HEAD
+=======
+change file 3(yingxu)
+>>>>>>> change file for yingxu
